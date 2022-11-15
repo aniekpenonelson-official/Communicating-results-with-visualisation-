@@ -1,6 +1,6 @@
 # Communicating-results-with-visualisation-
 Applying visualisation best practices to generate appealing visual insights to Ford Gobike dataset
-DESCRIPTION 
+DESCRIPTION:
 
 Use design principles to create effective visualizations for communicating findings to an audience.
 
@@ -8,7 +8,7 @@ In the file "Exploratory visualization" , I make use of Python visualization lib
 
 In the second file "Explanatory  visualization" , I produce a short presentation that illustrates interesting properties, trends, and relationships discovered in Exploratory visualisation notebook. The primary method of conveying findings is through transforming exploratory visualizations from the first part (exploratory visualisation) into polished, explanatory visualizations.
 
-HOW TO INSTALL AND RUN PROJECT 
+HOW TO INSTALL AND RUN PROJECT:
 
 In this project, I uses Python 3 to design and complete through the Jupyter Notebook's IDE. I use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following are libraries used to complete this project :
 
@@ -20,7 +20,7 @@ Matplotlib
 
 Seaborn
 
-USE OF PROJECT 
+USE OF PROJECT:
 
 Data visualization is an important skill that is used in many parts of the data analysis process.
 
